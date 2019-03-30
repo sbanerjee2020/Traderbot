@@ -6,4 +6,4 @@ Automated Trading Bot
 #####  2.  https://github.com/llSourcell/Q-Learning-for-Trading
 #####  Some always needed tutorials
 - GDrive101 - How to fetch and store files
-- 
+- Plotly_Sample - how to display plotly charts on Google Collab

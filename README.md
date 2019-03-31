@@ -1,5 +1,5 @@
 # Traderbot
-Automated Trading Bot
+Road towards an automated bot for financial trading
 
 # Notebooks
 #####  1.  https://github.com/llSourcell/Reinforcement_Learning_for_Stock_Prediction

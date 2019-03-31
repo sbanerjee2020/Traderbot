@@ -26,4 +26,5 @@ Automated Trading Bot
 - [Intro to RL](https://medium.freecodecamp.org/a-brief-introduction-to-reinforcement-learning-7799af5840db)
 - [Intro to Q-Learnng](https://medium.freecodecamp.org/a-brief-introduction-to-reinforcement-learning-7799af5840db)
 - [Simple Reinforcement Learning with TensorFlpw](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+- [Python for Finance - Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)
 

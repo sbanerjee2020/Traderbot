@@ -12,7 +12,7 @@ Automated Trading Bot
 
 # Presentations
 [Trading with RL](https://www.youtube.com/watch?v=Pka0DC_P17k&t=678s)
-2. ML For Trading (TB Class) - HERE
+[ML For Trading](https://docs.google.com/presentation/d/1FZt2QADT0gGDeDPhVvYbj1vHFzkpwLCK41CMzl4QVZc/edit#slide=id.g40e8d7bf33_0_17)
 
 # Videos
 1. Tucker Balch Video  - HERE

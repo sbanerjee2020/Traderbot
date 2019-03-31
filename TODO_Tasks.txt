@@ -1,5 +1,7 @@
 TODO Tasks (2019-03-31)
-1.  Make Tensorboard work on Google Collab
-2.  Run Notebook 1 and Notebook2 and create model files.  Save the models to local Google Drive.   
+1.  Make https://github.com/sbanerjee2020/Traderbot/blob/master/Reinforcement_Learning_for_Stock_Prediction.ipynb work
+2.
+3.  Make Tensorboard work on Google Collab
+4.  Run Notebook 1 and Notebook2 and create model files.  Save the models to local Google Drive.   
 This should happen for first runs.   Subsequent runs should load of these *pre-built* models and start predicting / trading.
 

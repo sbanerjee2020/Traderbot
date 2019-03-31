@@ -36,6 +36,6 @@ Road towards an automated bot for financial trading
 - [ML 4 Algorithmic Trading - github](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading)
 
 # References
--[Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
--[Demystifying DQL](https://www.intel.ai/demystifying-deep-reinforcement-learning/#gs.3umaz5)
+- [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
+- [Demystifying DQL](https://www.intel.ai/demystifying-deep-reinforcement-learning/#gs.3umaz5) 
 

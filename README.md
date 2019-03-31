@@ -11,12 +11,12 @@ Automated Trading Bot
 - Plotly_Sample - how to display plotly charts on Google Collab
 
 # Presentations
-[Trading with RL](https://www.youtube.com/watch?v=Pka0DC_P17k&t=678s)
+- [Trading with RL](https://www.youtube.com/watch?v=Pka0DC_P17k&t=678s)
 
-[ML For Trading](https://docs.google.com/presentation/d/1FZt2QADT0gGDeDPhVvYbj1vHFzkpwLCK41CMzl4QVZc/edit#slide=id.g40e8d7bf33_0_17)
+- [ML For Trading](https://docs.google.com/presentation/d/1FZt2QADT0gGDeDPhVvYbj1vHFzkpwLCK41CMzl4QVZc/edit#slide=id.g40e8d7bf33_0_17)
 
 # Videos
-[Tucker Balch Video](https://www.youtube.com/watch?v=Pka0DC_P17k&t=678s)
-[Siraj Raval  RL for Stock Trading](https://www.youtube.com/watch?v=05NqKJ0v7EE)
-[Siraj Raval Q-Trading](https://www.youtube.com/watch?v=rRssY6FrTvU&t=1s) 
+- [Tucker Balch Video](https://www.youtube.com/watch?v=Pka0DC_P17k&t=678s)
+- [Siraj Raval  RL for Stock Trading](https://www.youtube.com/watch?v=05NqKJ0v7EE)
+- [Siraj Raval Q-Trading](https://www.youtube.com/watch?v=rRssY6FrTvU&t=1s) 
 

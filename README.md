@@ -31,7 +31,7 @@ Road towards an automated bot for financial trading
 
 # Books
 - [DRL Hands On - Max Lapan](https://www.amazon.com/dp/B076H9VQH6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1%20%0A)
-- [DRL Hands on - GitHub](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On/)
+- [DRL Hands on - github](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On/)
 - [ML 4 Algorithmic Trading](https://www.amazon.com/Hands-Machine-Learning-Algorithmic-Trading/dp/178934641X/ref=asc_df_178934641X/?tag=hyprod-20&linkCode=df0&hvadid=266005469508&hvpos=1o2&hvnetw=g&hvrand=4715236811658911784&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031934&hvtargid=pla-605619386771&psc=1)
-- [ML 4 Algorithmic Trading - Github](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading)
+- [ML 4 Algorithmic Trading - github](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading)
 

@@ -20,8 +20,8 @@ Road towards an automated bot for financial trading
 - [Tucker Balch Video](https://www.youtube.com/watch?v=Pka0DC_P17k&t=678s)
 - [Siraj Raval  RL for Stock Trading](https://www.youtube.com/watch?v=05NqKJ0v7EE)
 - [Siraj Raval Q-Trading](https://www.youtube.com/watch?v=rRssY6FrTvU&t=1s) 
-- [Tucker Balch - Reinforcement Learning]
-1. [Refinforment Learning](https://classroom.udacity.com/courses/ud501/lessons/4930572236/concepts/48999418240923)
+- Tucker Balch's Udacity Class
+1. [Refinforcement Learning](https://classroom.udacity.com/courses/ud501/lessons/4930572236/concepts/48999418240923)
 2. [Q Learning](https://classroom.udacity.com/courses/ud501/lessons/5247432317/concepts/54440210930923)
 3. [DynaQ](https://classroom.udacity.com/courses/ud501/lessons/5326212698/concepts/54629888630923)
 

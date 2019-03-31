@@ -11,7 +11,7 @@ Automated Trading Bot
 - Plotly_Sample - how to display plotly charts on Google Collab
 
 # Presentations
-1. [Trading with  RL -] (https://www.youtube.com/watch?v=Pka0DC_P17k&t=678s)
+[Trading with RL](https://www.youtube.com/watch?v=Pka0DC_P17k&t=678s)
 2. ML For Trading (TB Class) - HERE
 
 # Videos

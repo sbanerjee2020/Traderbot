@@ -20,3 +20,7 @@ Automated Trading Bot
 - [Siraj Raval  RL for Stock Trading](https://www.youtube.com/watch?v=05NqKJ0v7EE)
 - [Siraj Raval Q-Trading](https://www.youtube.com/watch?v=rRssY6FrTvU&t=1s) 
 
+# Articles
+- [Intro to RL](https://medium.freecodecamp.org/a-brief-introduction-to-reinforcement-learning-7799af5840db)
+- [Intro to Q-Learnng](https://medium.freecodecamp.org/a-brief-introduction-to-reinforcement-learning-7799af5840db)
+

@@ -19,7 +19,7 @@ Automated Trading Bot
 - [Tucker Balch Video](https://www.youtube.com/watch?v=Pka0DC_P17k&t=678s)
 - [Siraj Raval  RL for Stock Trading](https://www.youtube.com/watch?v=05NqKJ0v7EE)
 - [Siraj Raval Q-Trading](https://www.youtube.com/watch?v=rRssY6FrTvU&t=1s) 
-- [Lesson 25, 26, 27 of Tucker Balch's class] (https://classroom.udacity.com/courses/ud501)
+- [Lessons from Tucker Balch's Udacity course - 25,26,27](https://classroom.udacity.com/courses/ud501)
 
 
 # Articles

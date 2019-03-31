@@ -28,3 +28,7 @@ Automated Trading Bot
 - [Simple Reinforcement Learning with TensorFlpw](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 - [Python for Finance - Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)
 
+# Books
+- [DRL Hands On - Max Lapan](https://www.amazon.com/dp/B076H9VQH6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1%20%0A)
+- [DRL Hands on - GitHub](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On/)
+

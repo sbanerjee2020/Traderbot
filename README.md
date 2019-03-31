@@ -7,7 +7,7 @@ Road towards an automated bot for financial trading
 #####  3.  https://github.com/llSourcell/Time_Series_Prediction 
 #####  4.  https://github.com/sbanerjee2020/Traderbot/blob/master/TraderBot_2019.ipynb
 
-# InfraStructure Tutorials
+# Infrastructure Tutorials
 - GDrive101 - How to fetch and store files
 - Plotly_Sample - how to display plotly charts on Google Collab
 

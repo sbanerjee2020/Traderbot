@@ -2,10 +2,10 @@
 Road towards an automated bot for financial trading
 
 # Notebooks
-- 1.  https://github.com/llSourcell/Reinforcement_Learning_for_Stock_Prediction
-- 2.  https://github.com/llSourcell/Q-Learning-for-Trading
-- 3.  https://github.com/llSourcell/Time_Series_Prediction 
-- 4.  https://github.com/sbanerjee2020/Traderbot/blob/master/TraderBot_2019.ipynb
+- https://github.com/llSourcell/Reinforcement_Learning_for_Stock_Prediction
+- https://github.com/llSourcell/Q-Learning-for-Trading
+- https://github.com/llSourcell/Time_Series_Prediction 
+- https://github.com/sbanerjee2020/Traderbot/blob/master/TraderBot_2019.ipynb
 
 # Infrastructure Tutorials
 - [Fetch and store google drive files](https://github.com/sbanerjee2020/Traderbot/blob/master/GDrive_101.ipynb)

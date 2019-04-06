@@ -10,6 +10,7 @@ Road towards an automated bot for financial trading
 # Infrastructure Tutorials
 - GDrive101 - How to fetch and store files
 - Plotly_Sample - how to display plotly charts on Google Collab
+- Tensorboard  - https://github.com/sbanerjee2020/Traderbot/blob/master/Tensorboard_trial.ipynb
 
 # Presentations
 - [Trading with RL](https://docs.google.com/presentation/d/1db5Y0g-rvgX-hKr3-ZbtiXNew9lYrfNacRmNDsajZx8/edit#slide=id.g4a9d190e5d_0_18)

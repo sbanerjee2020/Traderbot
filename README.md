@@ -14,7 +14,6 @@ Road towards an automated bot for financial trading
 
 # Presentations
 - [Trading with RL](https://docs.google.com/presentation/d/1db5Y0g-rvgX-hKr3-ZbtiXNew9lYrfNacRmNDsajZx8/edit#slide=id.g4a9d190e5d_0_18)
-
 - [ML For Trading](https://docs.google.com/presentation/d/1FZt2QADT0gGDeDPhVvYbj1vHFzkpwLCK41CMzl4QVZc/edit#slide=id.g40e8d7bf33_0_17)
 
 # Videos

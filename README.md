@@ -8,7 +8,7 @@ Road towards an automated bot for financial trading
 #####  4.  https://github.com/sbanerjee2020/Traderbot/blob/master/TraderBot_2019.ipynb
 
 # Infrastructure Tutorials
-- GDrive101 - How to fetch and store files
+- GDrive101 - How to fetch and store files - https://github.com/sbanerjee2020/Traderbot/blob/master/GDrive_101.ipynb
 - Plotly_Sample - how to display plotly charts on Google Collab
 - Tensorboard  - https://github.com/sbanerjee2020/Traderbot/blob/master/Tensorboard_trial.ipynb
 

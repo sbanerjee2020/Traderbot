@@ -44,3 +44,6 @@ Road towards an automated bot for financial trading
 - [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
 - [Demystifying DQL](https://www.intel.ai/demystifying-deep-reinforcement-learning/#gs.3umaz5) 
 
+# Business Articles
+- [Quantamental Investment](https://www.marketwatch.com/story/the-next-frontier-in-investing-is-quantamental-stock-picking-2018-)
+

@@ -46,3 +46,7 @@ Road towards an automated bot for financial trading
 # Business Articles
 - [Quantamental Investment](https://www.marketwatch.com/story/the-next-frontier-in-investing-is-quantamental-stock-picking-2018-10-03)
 
+# Analytics-Vidhya Reinforcement Learning:
+- https://www.analyticsvidhya.com/blog/2018/09/reinforcement-learning-model-based-planning-dynamic-programming/
+- https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/
+

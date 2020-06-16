@@ -5,4 +5,5 @@ This folder will hold all practical tools found in the web.
 3.  FFN-Intro.ipynb  - Retrieve prices, correlations of stocks using ffn
 4.  StockAnalysis-Waterfall.ipynb - Stock Analysis Waterfall Chart
 5.  Financials_ratios.ipynb
+6.  Finance_Intro.ipynb
 

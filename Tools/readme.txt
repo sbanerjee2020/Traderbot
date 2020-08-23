@@ -7,4 +7,5 @@ This folder will hold all practical tools found in the web.
 5.  Financials_ratios.ipynb
 6.  Finance_Intro.ipynb
 7. Building Investing Model With Python.ipyb
+8. TradingWithIndicators.ipynb
 
